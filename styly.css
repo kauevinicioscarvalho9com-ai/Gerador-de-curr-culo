@@ -1,0 +1,24 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sns-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 20px;
+    background: #fff;
+}
+
+label {
+    font-weight: 500;
+}
+
+button {
+    border-radius: 10px;
+}
+
+.btn-success {
+    font-weight: bold;
+}
